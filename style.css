@@ -1,0 +1,12 @@
+* {
+    font-family: "Epiloque", sans-serif;
+    font-size: 0.85rem;
+}
+.logo {
+    font-size: 1.3rem;
+}
+nav,
+.cta-btns,
+.menu-items {
+    display: flex;
+}
